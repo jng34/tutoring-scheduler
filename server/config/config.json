@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "nyi",
+    "password": "diamond",
+    "database": "tutoring_scheduler_project",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "nyi",
+    "password": "diamond",
+    "database": "tutoring_scheduler_project",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "ubuntu14",
+    "database": "tutoring-scheduler-db.c3cqws8sy7dm.us-east-1.rds.amazonaws.com",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
